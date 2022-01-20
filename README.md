@@ -1,2 +1,5 @@
 # Satellite-Global-Code
-A repository of FPS games made with Unity
+これはUnityで作ったオンラインFPSゲームのリポジトリです。
+
+このMDは制作中です
+
